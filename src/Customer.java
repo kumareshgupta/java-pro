@@ -91,3 +91,4 @@ public class Customer {
 	public int hashCode() {
 		return Objects.hashCode(this);
 	}
+}
